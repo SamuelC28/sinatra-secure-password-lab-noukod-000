@@ -17,6 +17,4 @@ ActiveRecord::Schema.define(version: 20190111145117) do
     t.string  "password_digest"
     t.integer "balance", default: 0
   end
-
-
 end
